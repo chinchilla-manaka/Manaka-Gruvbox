@@ -4,3 +4,5 @@
 This theme supports sidebars. Feel free to change some things and stuff.
 
 You can also add this theme via [Telegram Link](https://t.me/addtheme/manaka_gruvbox).
+
+![screenshot](./Media/telegram.png)
